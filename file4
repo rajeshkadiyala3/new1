@@ -1,0 +1,11 @@
+21. curl: Transfer data to or from a server
+22. ssh: Secure shell remote login
+23. scp: Securely copy files between hosts
+24. chmod: Change file permissions
+25. chown: Change file ownership
+26. chgrp: Change group ownership
+27. ps: Display running processes
+28. top: Monitor system resources and processes
+29. kill: Terminate processes
+30. df: Display disk space usage
+
